@@ -4,11 +4,15 @@ A digital language studies PhD candidate from the university of Turku, Finland. 
 
 Digitaalisen kielentutkimuksen tohtorikoulutettava Turun yliopistossa. Maisterin tutkinto latinalaisesta filologiasta ja olen erikoistunut keskiajan latinaan.
 
-Populaarijulkaisu penitentiariaatin asiakirjoihin liittyen.
+Aboa vetus et ars nova 2.7. kello 14. "Armon lähteestä synninpäästöä anomassa: katolisen kirkon oikeusasiakirjat myöhäiskeskiajan turkulaisen arjen näyttämönä"
+
+Suomesta on säilynyt valikoima ns. penitentiariaattiasiakirjoja, eli katolisen kirkon oikeusasiakirjoja, joissa on myös paljon kuvauksia arjen historiasta. Nämä asiakirjat ovat ajalta 1410-1526. Asiakirjat käsittelevät tapauksia, jolloin on anottu lupaa poiketa ennelta katolisen kirkon säädöksistä tai sitten syyllistytty johonkin, joka on johtanut kirkosta erottamiseen ja anottu paavilliselta kanslialta synninpäästöä. Jotta henkilö on voinut saada anomuksensa läpi on hänen usein tarvinnut luoda seikkaperäinen selostus tapahtumista. Nämä selonteot esimerkiksi siitä mikä on johtanut papin ja dominikaani maallikkoveljen väliseen tappeluun Turun torilla heinäkuussa 1481 ovat varsin mielenkiintoista tutkittavaa. Keskiaikaisen Ruotsin tapaukset on koottu yhteen julkaisuun, jossa ne on kirjoitettu auki nykykirjaimin ja niistä on tiivistelmät englanniksi. Osana väitöskirjatyötäni on tarkoitus kääntää latinasta suomeksi 127 asiakirjaa ja tarkastella niitä vihjeitä, joita niistä on luettavissa Suomen sosiaalihistoriasta. Esitelmässäni kerron pääpiirteet penitentiariaatista, luon läpileikkauksen näihin suomalaisiin tapauksiin ja käsittelen muutaman tapausesimerkin laajemmin.
+
+Pupulaarijulkaisu gradustani
 
 https://kalmistopiiri.fi/2020/08/22/vakivallan-ja-kuoleman-ilmaukset-keskiaikaisessa-penitentiariaattiaineistossa/
 
- Suomen keskiaikaisten asiakirjojen tietokanta
+Suomen keskiaikaisten asiakirjojen tietokanta
 
 http://df.narc.fi/
 
