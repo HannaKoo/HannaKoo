@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @HannaKoo
+I'm a digital language studies PhD candidate from the university of Turku, Finland. My masters is from Latin and I have specialised in Medieval Latin.
 
-A digital language studies PhD candidate from the university of Turku, Finland. My masters is from Latin and I have specialised in Medieval Latin.
-
-Digitaalisen kielentutkimuksen tohtorikoulutettava Turun yliopistossa. Maisterin tutkinto latinalaisesta filologiasta ja olen erikoistunut keskiajan latinaan.
+Olen Digitaalisen kielentutkimuksen tohtorikoulutettava Turun yliopistossa. Maisterin tutkinto latinalaisesta filologiasta ja olen erikoistunut keskiajan latinaan.
 
 Aboa vetus et ars nova 2.7. kello 14. "Armon lähteestä synninpäästöä anomassa: katolisen kirkon oikeusasiakirjat myöhäiskeskiajan turkulaisen arjen näyttämönä"
 
-Suomesta on säilynyt valikoima ns. penitentiariaattiasiakirjoja, eli katolisen kirkon oikeusasiakirjoja, joissa on myös paljon kuvauksia arjen historiasta. Nämä asiakirjat ovat ajalta 1410-1526. Asiakirjat käsittelevät tapauksia, jolloin on anottu lupaa poiketa ennelta katolisen kirkon säädöksistä tai sitten syyllistytty johonkin, joka on johtanut kirkosta erottamiseen ja anottu paavilliselta kanslialta synninpäästöä. Jotta henkilö on voinut saada anomuksensa läpi on hänen usein tarvinnut luoda seikkaperäinen selostus tapahtumista. Nämä selonteot esimerkiksi siitä mikä on johtanut papin ja dominikaani maallikkoveljen väliseen tappeluun Turun torilla heinäkuussa 1481 ovat varsin mielenkiintoista tutkittavaa. Keskiaikaisen Ruotsin tapaukset on koottu yhteen julkaisuun, jossa ne on kirjoitettu auki nykykirjaimin ja niistä on tiivistelmät englanniksi. Osana väitöskirjatyötäni on tarkoitus kääntää latinasta suomeksi 127 asiakirjaa ja tarkastella niitä vihjeitä, joita niistä on luettavissa Suomen sosiaalihistoriasta. Esitelmässäni kerron pääpiirteet penitentiariaatista, luon läpileikkauksen näihin suomalaisiin tapauksiin ja käsittelen muutaman tapausesimerkin laajemmin.
+Suomesta on säilynyt valikoima ns. penitentiariaattiasiakirjoja, eli katolisen kirkon oikeusasiakirjoja, joissa on myös paljon kuvauksia arjen historiasta. Nämä asiakirjat ovat ajalta 1410-1526. Asiakirjat käsittelevät tapauksia, jolloin on anottu lupaa poiketa ennalta katolisen kirkon säädöksistä tai sitten syyllistytty johonkin, joka on johtanut kirkosta erottamiseen ja anottu paavilliselta kanslialta synninpäästöä. Jotta henkilö on voinut saada anomuksensa läpi on hänen usein tarvinnut luoda seikkaperäinen selostus tapahtumista. Nämä selonteot esimerkiksi siitä mikä on johtanut papin ja dominikaani maallikkoveljen väliseen tappeluun Turun torilla heinäkuussa 1481 ovat varsin mielenkiintoista tutkittavaa. Keskiaikaisen Ruotsin tapaukset on koottu yhteen julkaisuun, jossa ne on kirjoitettu auki nykykirjaimin ja niistä on tiivistelmät englanniksi. Osana väitöskirjatyötäni on tarkoitus kääntää latinasta suomeksi 127 asiakirjaa ja tarkastella niitä vihjeitä, joita niistä on luettavissa Suomen sosiaalihistoriasta. Esitelmässäni kerron pääpiirteet penitentiariaatista, luon läpileikkauksen näihin suomalaisiin tapauksiin ja käsittelen muutaman tapausesimerkin laajemmin.
 
 Pupulaarijulkaisu gradustani
 
@@ -19,6 +17,8 @@ http://df.narc.fi/
 Svenskt Diplomatarium
 
 https://riksarkivet.se/diplomatariet
+
+Kirjallisuutta
 
 Risberg Sara & Salonen Kirsi 2008. Auctoritate Papae: The Church Province of Uppsala and the Apostolic Penitentiary 1410–1526. Diplomatarium Suecanum, Appendix: Acta Pontificium Suecica, 2. Acta poenitentiarie. Tukholma Riksar-kivet.
 
@@ -35,7 +35,7 @@ Salonen Kirsi 2001. The Penitentiary as a Well of Grace in the Late Middle Ages:
 
 Salonen Kirsi 2003. ”Paulus Scheelin puuttuvan peukalon tapaus.” s. 17–24. Suomen kirkkohistoriallisen seuran vuosikirja 92, 2003. Vaasa.
 
-Salonen Kirsi & Schmugge Ludwig 2009. A sip from the "well of grace": me-dieval texts from the apostolic penitentiary. Washington, D.C.: Catholic Univer-sity of America Press. 
+Salonen Kirsi & Schmugge Ludwig 2009. A sip from the "well of grace": medieval texts from the apostolic penitentiary. Washington, D.C.: Catholic Univer-sity of America Press. 
 
 Salonen Kirsi 2013. ”Forbidden Marital Strategies: Papal Marriage Dispensati-ons for Scandinavian Couples in the Later Middle Ages.” s. 181–208. Salonen Kirsi, Jensen Kurt Villads & Jørgensen Torstein 2013 (ediittorit). Medieval Chistianity in the North. Brepols, Belgia.
 
