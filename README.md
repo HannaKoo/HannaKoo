@@ -9,7 +9,7 @@ Suomesta on säilynyt valikoima ns. penitentiariaattiasiakirjoja, eli katolisen 
 
 
 
-Pupulaarijulkaisu gradustani
+Populaarijulkaisu gradustani
 
 https://kalmistopiiri.fi/2020/08/22/vakivallan-ja-kuoleman-ilmaukset-keskiaikaisessa-penitentiariaattiaineistossa/
 
