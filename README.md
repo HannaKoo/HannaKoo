@@ -1,6 +1,6 @@
-I'm a digital language studies PhD candidate from the university of Turku, Finland. My masters is from Latin and I have specialised in Medieval Latin.
+I'm a digital language studies doctoral researcher from the university of Turku, Finland. My masters is from Latin and I have specialised in Medieval Latin.
 
-Olen Digitaalisen kielentutkimuksen tohtorikoulutettava Turun yliopistossa. Maisterin tutkinto latinalaisesta filologiasta ja olen erikoistunut keskiajan latinaan.
+Olen Digitaalisen kielentutkimuksen väitöskirjatutkija Turun yliopistossa. Maisterin tutkinto latinalaisesta filologiasta ja olen erikoistunut keskiajan latinaan.
 
 POP-UP latinapäivä Apteekkimuseo 2.7.2022
 
